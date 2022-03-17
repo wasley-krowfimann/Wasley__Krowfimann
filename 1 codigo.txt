@@ -1,0 +1,2 @@
+nome = str(input('digite seu nome: '))
+print('ola {} prazer em te conhecer! seja bem vindo '.format(nome))
